@@ -1,7 +1,2 @@
-echo
-!/bin/bash
-ALX
-echo ALX
-!/bin/bash
-ALX
-echo ALX
+#!/bin/bash
+ALX School
